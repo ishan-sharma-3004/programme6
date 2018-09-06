@@ -1,0 +1,14 @@
+# programme6
+size of int float char double
+#include<stdio.h>
+int main()
+{
+int a;
+char b;
+float c
+double d;
+printf("size of integer datatype is:%ld",size of(a));
+printf("size of character type datatype is:%ld",size of (b));
+printf("size of double type data type is :%ld",sizeof(c));
+printf("size of float type data type is:%ld",sizeof(d));
+}
